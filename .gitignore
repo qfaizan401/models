@@ -97,3 +97,5 @@ ENV/
 # For mac
 .DS_Store
 /research/object_detection/images/
+/research/object_detection/inference_graph/
+/research/object_detection/inference_graph/
